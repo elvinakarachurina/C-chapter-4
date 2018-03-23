@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\user\source\repos\7 задание\consoleapplication2\consoleapplication2.cpp(10): warning C4305: =: усечение из "double" в "float"
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\7 задание\Debug\ConsoleApplication2.exe

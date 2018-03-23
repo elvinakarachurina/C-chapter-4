@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\user\source\repos\задание 8\consoleapplication2\consoleapplication2.cpp(9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\Задание 8\Debug\ConsoleApplication2.exe
